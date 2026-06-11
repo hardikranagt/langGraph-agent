@@ -80,8 +80,8 @@ langgraph_starter/
 This is Step 1 of your LangGraph learning path:
 
 1. ✅ **State & Nodes** ← you are here  
-2. ⬜ Conditional Edges — route based on LLM output  
-3. ⬜ Tool Nodes — connect tools (like CrewAI tools)  
-4. ⬜ Cycles & Human-in-the-loop  
-5. ⬜ Multi-agent graphs  
-6. ⬜ LangGraph + RAG  
+2. ✅ Conditional Edges — route based on LLM output  
+3. ✅ Tool Nodes — connect tools (like CrewAI tools)  
+4. ✅ Cycles & Human-in-the-loop  
+5. ✅ Multi-agent graphs  
+6. ✅ LangGraph + RAG  
